@@ -20,6 +20,7 @@ env:
   DOCKER_WEBAPP_IMAGE_NAME: "mlopspython-webapp"
   DOCKER_REGISTRY: "ghcr.io"
 
+
 permissions:
   id-token: write
   contents: write
